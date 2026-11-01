@@ -24,7 +24,7 @@ jobs:
           cache: maven
 
       - name: Run JUnit 5 / Mockito tests
-        run: mvn --batch-mode --no-transfer-progress --no-color test
+        run: mvn --batch-mode --no-transfer-progress -Dstyle.color=never test
 
       - name: Upload test reports (even if tests fail)
         if: always()
