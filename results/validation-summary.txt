@@ -1,0 +1,5 @@
+Baseline before mutants: exit=0
+Mutant 1: exit=1
+Mutant 2: exit=1
+Mutant 3: exit=1
+Final baseline after restoration: exit=0
