@@ -54,7 +54,7 @@ lab08-mockito/
     ├── mvn-test-mutant-1.txt        
     ├── mvn-test-mutant-2.txt        
     ├── mvn-test-mutant-3.txt        
-    └── validation-summary.txt      
+    └── validation-summary.txt           
 ```
 
 ## 3. Хэсэг A — A1–A8 тестүүд
